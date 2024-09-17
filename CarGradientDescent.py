@@ -22,7 +22,7 @@ from sklearn.metrics import mean_absolute_percentage_error
 from sklearn.preprocessing import StandardScaler
 
 # Raw URL of the dataset
-url = 'https://raw.githubusercontent.com/sanspandey45/ml-dataset/main/carsdata.csv'
+url = 'https://raw.githubusercontent.com/sanspandey45/Car-Prediction-Model/main/CarData.csv'
 
 # Load dataset into a DataFrame
 df = pd.read_csv(url)
