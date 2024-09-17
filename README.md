@@ -9,9 +9,9 @@ This project is a simple implementation of the gradient descent algorithm for li
 
 ## Libraries used:
 numpy
-\npandas
-\nscikit-learn
-\nmatplotlib (and seaborn)
+-mpandas
+-mscikit-learn
+-mmatplotlib (and seaborn)
 
 
 
